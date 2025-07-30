@@ -25,7 +25,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FoioMikael-apk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/FoioMikael-apk/FoioMikael-apk/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/FoioMikael-apk/FoioMikael-apk/output/github-contribution-grid-snake.svg" width="100%" />
+
 
 
 
